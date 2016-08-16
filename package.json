@@ -1,0 +1,17 @@
+{
+  "name": "rubbish",
+  "version": "0.0.1",
+  "description": "Very opinionated generator for hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "generator",
+    "route",
+    "test"
+  ],
+  "author": "igorkosta",
+  "license": "WTFPL"
+}
